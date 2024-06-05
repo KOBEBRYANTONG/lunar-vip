@@ -32,7 +32,7 @@ if not LPH_OBFUSCATED then -- if obfuscated then just remove this
             ['Main'] = {
                 ['Enabled'] = true,
                 ['Mode'] = "Target", --// Regular and Target (regular doesnt work right now)
-                ['KeyBind'] = 'E',
+                ['KeyBind'] = 'C',
                 ['Prediction'] = 0.1282,
                 ['Hitchance'] = 500,
                 ['Parts'] = {"Head","LowerTorso","UpperTorso","HumanoidRootPart","LeftLowerArm","RightLowerArm","LeftUpperArm","RightUpperArm","LeftLowerLeg","LeftUpperLeg","RightLowerLeg","RightUpperLeg"},
