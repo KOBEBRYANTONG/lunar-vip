@@ -2,7 +2,7 @@ if not LPH_OBFUSCATED then -- if obfuscated then just remove this
     getgenv().Loot = {
         ['Options'] = {
             ['Notifications'] = true,
-            ['FOVMode'] = "Sticky" , --// Sticky and FollowMouse
+            ['FOVMode'] = "FollowMouse" , --// Sticky and FollowMouse
             ['MuteBoomBox'] = true,
             ['AutoLowGfx'] = true,
             ['RemoveSeats'] = true,
